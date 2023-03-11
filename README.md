@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ampmonteiro
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Symfony php framework
+- 🌱 I’m currently learning Lit js
 
 -  this a temp presentation
